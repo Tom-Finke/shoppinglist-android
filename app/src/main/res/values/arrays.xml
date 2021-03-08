@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="noteMode_values">
+        <item>@string/pref_value_mode_edit</item>
+        <item>@string/pref_value_mode_preview</item>
+        <item>@string/pref_value_mode_last</item>
+    </string-array>
+    <string-array name="fontSize_values">
+        <item>@string/pref_value_font_size_small</item>
+        <item>@string/pref_value_font_size_medium</item>
+        <item>@string/pref_value_font_size_large</item>
+    </string-array>
+    <string-array name="darkMode_values">
+        <item>@string/pref_value_theme_light</item>
+        <item>@string/pref_value_theme_dark</item>
+        <item>@string/pref_value_theme_system_default</item>
+    </string-array>
+    <string-array name="sync_values">
+        <item>@string/pref_value_sync_off</item>
+        <item>@string/pref_value_sync_15_minutes</item>
+        <item>@string/pref_value_sync_1_hour</item>
+        <item>@string/pref_value_sync_6_hours</item>
+    </string-array>
+</resources>

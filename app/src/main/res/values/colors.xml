@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors -->
+
+    <color name="primary">#ffffff</color>
+    <color name="accent">#121212</color>
+
+    <color name="defaultBrand">#0082C9</color>
+
+    <color name="cursorHandles">#555566</color>
+    <color name="defaultTextHighlightBackground">#2233334a</color>
+
+    <color name="bg_highlighted">#eee</color>
+    <color name="bg_normal">@color/primary</color>
+    <color name="bg_attention">#d40000</color>
+    <color name="bg_warning">#ffcc00</color>
+    <color name="fg_default">#000000</color>
+    <color name="fg_default_selection">#333333</color>
+    <color name="fg_default_low">#666666</color>
+    <color name="fg_default_high">#cccccc</color>
+    <color name="fg_contrast">#ffffff</color>
+
+    <color name="icon_color_default">#757575</color>
+
+    <color name="category_background">@color/bg_normal</color>
+    <color name="category_border">@color/defaultBrand</color>
+
+    <color name="appbar">@android:color/white</color>
+
+    <color name="widget_background">#ddffffff</color>
+    <color name="widget_foreground">#222222</color>
+    <color name="widget_foreground_strong">#121212</color>
+    <color name="widget_divider">#32d1d1d1</color>
+</resources>

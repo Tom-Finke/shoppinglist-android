@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Poznámky</string>
+    <string name="app_name_long">Nextcloud poznámky</string>
+    <string name="label_all_notes">Všetky poznámky</string>
+    <string name="label_favorites">Obľúbené</string>
+    <string name="action_create">Nová poznámka</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_trashbin">Zmazané poznámky</string>
+    <string name="action_search">Hľadať</string>
+    <string name="action_sorting_method">Metóda triedenia</string>
+    <string name="simple_cancel">Zrušiť</string>
+    <string name="simple_edit">Upraviť</string>
+    <string name="action_edit_save">Uložiť</string>
+    <string name="simple_about">O aplikácii</string>
+    <string name="simple_link">Odkaz</string>
+    <string name="action_note_deleted">Vymazané %1$s</string>
+    <string name="action_note_restored">Obnovené %1$s</string>
+    <string name="action_undo">Vrátiť</string>
+    <string name="action_uncategorized">Nezaradené</string>
+    <string name="menu_delete">Zmazať</string>
+    <string name="menu_change_category">Kategória</string>
+    <string name="menu_favorite">Obľúbené</string>
+    <string name="menu_preview">Náhľad</string>
+    <string name="menu_share">Sprístupniť</string>
+
+    <string name="search_in_category">Hľadať v %1$s</string>
+    <string name="search_in_all">Hľadať všetky poznámky</string>
+
+    <string name="change_category_title">Vybrať kategóriu</string>
+
+    <string name="listview_updated_today">Dnes</string>
+    <string name="listview_updated_yesterday">Včera</string>
+    <string name="listview_updated_this_week">Tento týždeň</string>
+    <string name="listview_updated_last_week">Minulý týždeň</string>
+    <string name="listview_updated_this_month">Tento mesiac</string>
+    <string name="listview_updated_last_month">Minulý mesiac</string>
+
+    <string name="settings_note_mode">Režim zobrazovania poznámok</string>
+    <string name="settings_theme_title">Motív vzhľadu</string>
+    <string name="settings_font_title">Písmo s pevnou šírkou</string>
+    <string name="settings_font_size">Veľkosť písma</string>
+    <string name="settings_wifi_only">Synchronizovať len na Wi-Fi</string>
+    <string name="settings_lock">Ochrana heslom</string>
+    <string name="settings_background_sync">Synchronizácia na pozadí</string>
+
+    <string name="error_sync">Synchronizácia zlyhala: %1$s</string>
+    <string name="error_synchronization">Synchronizácia zlyhala</string>
+    <string name="error_no_network">Bez sieťového pripojenia</string>
+    <string name="error_unknown">Vyskytla sa neznáma chyba</string>
+
+    <string name="about_version_title">Verzia</string>
+    <string name="about_version">Momentálne používate &lt;strong>%1$s&lt;/strong></string>
+    <string name="about_maintainer_title">Udržovateľ</string>
+    <string name="about_developers_title">Vývojári</string>
+    <string name="about_translators_title">Prekladatelia</string>
+    <string name="about_translators_transifex">Nextcloud komunita na &lt;a href=\"%1$s\">Transifex&lt;/a></string>
+    <string name="about_testers_title">Testeri</string>
+    <string name="about_source_title">Zdrojový kód</string>
+    <string name="about_source">Tento projekt je prevádzkovaný na GitHube: &lt;a href=\"%1$s\">%1$s&lt;/a></string>
+    <string name="about_issues_title">Problémy</string>
+    <string name="about_issues">Návrhy na vylepšenia, požiadavky na nové funkcie a chyby môžete nahlásiť na GitHub sledovači problémov: &lt;a href=\"%1$s\">%1$s&lt;/a></string>
+    <string name="about_translate_title">Preložiť</string>
+    <string name="about_translate">Pripojte sa do tímu Nextcloud na stránke Transifex a pomožte nám s prekladom tejto aplikácie: &lt;a href=\"%1$s\">%1$s&lt;/a></string>
+    <string name="about_app_license_title">Licencia aplikácie</string>
+    <string name="about_app_license">Táto aplikácie je licencovaná pod GNU GENERAL PUBLIC LICENSE v3+.</string>
+    <string name="about_app_license_button">Zobraziť licenciu</string>
+    <string name="about_icons_disclaimer_title">Ikony</string>
+    <string name="about_icons_disclaimer">&lt;p>Pôvodná ikona od %1$s&lt;/p>&lt;p>Všetky ostatné ikony použité v tejto aplikácii sú &lt;a href=\"https://materialdesignicons.com/\">Material Design Icons&lt;/a> od Google Inc. a licencované pod Apache 2.0 Licenciou.&lt;/p></string>
+    <string name="about_credits_tab_title">Zásluhy</string>
+    <string name="about_contribution_tab_title">Príspevok</string>
+    <string name="about_license_tab_title">Licencia</string>
+
+    <string name="widget_note_list_title">Zoznam poznámok</string>
+    <string name="widget_note_list_placeholder">Nie sú žiadne poznámky</string>
+    <string name="widget_single_note_title">Jedna poznámka</string>
+    <string name="widget_single_note_placeholder_tv">Poznámky sa nenašli</string>
+    <string name="widget_create_note">Vytvoriť poznámku</string>
+    <string name="widget_not_logged_in">Prihláste sa prosím do Poznámok skôr než začnete používať tento widget</string>
+    <string name="widget_entry_fav_contentDescription">Ikona hviezdičky označuje položku ako obľúbenú</string>
+    <string name="widget_app_launcher_contentDescription">Spustí aplikáciu</string>
+
+    <string name="activity_select_single_note">Vybrať poznámku</string>
+
+    <string name="shortcut_create_long">Vytvoriť novú poznámku</string>
+
+    <string name="pref_value_font_normal">Normálne</string>
+    <string name="pref_value_wifi_and_mobile">Synchronizovať na Wi-Fi a mobilných dátach</string>
+    <string name="pref_value_lock">Ochrana heslom</string>
+
+    <string name="simple_error">Chyba</string>
+    <string name="simple_close">Zatvoriť</string>
+    <string name="simple_copy">Kopírovať</string>
+    <string name="simple_exception">Výnimka</string>
+    <string name="pin_to_homescreen">Pripnúť na domovskú obrazovku</string>
+    <string name="note_has_been_deleted">Táto poznámka bola vymazaná</string>
+    <string name="add_account">Pridať účet</string>
+    <string name="category_music">Hudba</string>
+    <string name="category_movies">Videá</string>
+    <string name="category_movie">Film</string>
+    <string name="category_work">Práca</string>
+    <string name="account_already_imported">Účet už bol importovaný</string>
+    <string name="no_notes_yet">Zatiaľ nie sú žiadne poznámky</string>
+    <string name="no_notes_yet_description">Ťuknutím na tlačidlo + vytvoríte novú poznámku</string>
+    <string name="simple_more">Viac</string>
+    <string name="simple_move">Presunúť</string>
+    <string name="category_readonly">Iba na čítanie</string>
+    <string name="no_category">Žiadna kategória</string>
+    <string name="add_category">Pridať %1$s</string>
+    <string name="simple_checkbox">Zaškrtávacie políčko</string>
+    <string name="unlock_notes">Odomknúť poznámky</string>
+    <string name="simple_beta">Beta</string>
+    <string name="error_dialog_title">Ale nie - Čo teraz? 🙁</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Skúste vyinútiť zatvorenie aplikácie a znova ju reštartovať. Možno došlo k chybnému pripojeniu k aplikácii Nextcloud.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Ak problém pretrváva, skúste vyčistiť úložisko oboch aplikácií: Nextcloud a Nextcloud Poznámky.</string>
+    <string name="error_dialog_tip_files_outdated">Váš Nextcloud vyzerá byť zastaralý. Navštívte Play Store alebo F-Droid pre získanie najnovšej verzie.</string>
+    <string name="error_dialog_tip_files_force_stop">Niečo s vašim Nextcloudom nie je v poriadku. Skúste vynútiť ukončenie aplikácií Nextcloud a Nextcloud Poznámky.</string>
+    <string name="error_dialog_tip_files_delete_storage">Ak ich ukončenie nepomôže, môžete skúsiť vyčistiť úložiská oboch aplikácií.</string>
+    <string name="error_dialog_timeout_instance">Server dlho neodpovedal. Uistite sa, vami využívaná inštancia funguje dobre.</string>
+    <string name="error_dialog_timeout_toggle">Skontrolujte pripojenie k sieti. Niekedy pomôže vypnutie a znovu zapnutie mobilných dát alebo Wi-Fi.</string>
+    <string name="error_dialog_check_server">Odpoveď servera nebola správna. Skontrolujte, či máte prístup k svojím poznámkam pomocou webového rozhrania.</string>
+    <string name="error_dialog_check_server_logs">V nastavení vášho Nextcloudu je problém. Skontrolujte súbor so záznamom udalostí na serveri.</string>
+    <string name="error_dialog_check_maintenance">Prosím skontrolujte, či vaša inštancia Nextcloudu nie je práve v móde údržby.</string>
+    <string name="error_dialog_insufficient_storage">Vo vašej inštancii Nexcloudu nie je na úložisku voľné miesto. Aby bolo možné synchronizovať vaše miestne zmeny s vaším cloudom, je potrebné najprv zmazať niektoré súbory.</string>
+    <string name="error_dialog_contact_us">Ak problémy pretrvávajú, neváhajte nás kontaktovať. Kontaktné informácie nájdete v časti \"O nás\" v bočnom paneli.</string>
+    <string name="error_dialog_we_need_info">Aby sme vám pomohli, potrebujeme následovné technické informácie:</string>
+    <string name="error_dialog_server_app_enabled">Uistite sa, že ste na serveri nainštalovali a povolili aplikáciu Poznámky.</string>
+    <string name="error_dialog_redirect">Váš server odpovedal stavovým kódom HTTP 302, čo znamená, že na svojom serveri nemáte nainštalovanú aplikáciu Notes alebo je niečo nesprávne nastavené. Môže to byť spôsobené vlastnými zmenami v súbore .htaccess alebo aplikáciami Nextcloud, ako je OID Client.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Vypnite všetky optimalizácie batérie pre aplikácie Nextcloud a Poznámky.</string>
+    <string name="added_content">Pridané \"%1$s\"</string>
+    <string name="shared_text_empty">Zdieľaný text bol prázdny</string>
+    <string name="append_to_note">Pripojiť k poznámke</string>
+    <string name="change_note_title">Zmeniť názov poznámky</string>
+    <string name="menu_edit_title">Upraviť názov</string>
+    <string name="settings_branding">Použitie vlastného loga</string>
+    <string name="settings_gridview">Mriežkové zobrazenie 🆕</string>
+    <string name="simple_security">Zabezpečenie</string>
+    <string name="simple_appearance">Vzhľad</string>
+    <string name="simple_synchronization">Synchronizácia</string>
+    <string name="simple_behavior">Chod</string>
+    <string name="manage_accounts">Spravovať účty</string>
+    <string name="action_formatting_help">Formátovanie</string>
+
+    <string-array name="noteMode_entries">
+        <item>Otvoriť v režime úprav</item>
+        <item>Otvoriť v režime ukážky</item>
+        <item>Zapamätať si môj posledný výber</item>
+    </string-array>
+
+    <string-array name="fontSize_entries">
+        <item>Malá</item>
+        <item>Stredná</item>
+        <item>Veľká</item>
+    </string-array>
+
+    <string-array name="sync_entries">
+        <item>Vypnúť</item>
+        <item>15 minút</item>
+        <item>1 hodina</item>
+        <item>6 hodín</item>
+    </string-array>
+
+    <string-array name="darkmode_entries">
+        <item>Svetlý</item>
+        <item>Tmavý</item>
+        <item>Predvolené systémom</item>
+    </string-array>
+
+    <plurals name="ab_selected">
+        <item quantity="one">%d vybraný</item>
+        <item quantity="few">%d vybraných</item>
+        <item quantity="many">%d vybraný</item>
+        <item quantity="other">%d vybraný</item>
+    </plurals>
+    <plurals name="bulk_notes_deleted">
+        <item quantity="one">Odstránená jedna poznámka</item>
+        <item quantity="few">Odstránené %1$d poznámky</item>
+        <item quantity="many">Odstránené %1$d poznámky</item>
+        <item quantity="other">Odstránených %1$d poznámok</item>
+    </plurals>
+    <plurals name="bulk_notes_restored">
+        <item quantity="one">Obnovená jedna poznámka</item>
+        <item quantity="few">Obnovené %1$d poznámky</item>
+        <item quantity="many">Obnovené %1$d poznámky</item>
+        <item quantity="other">Obnovených %1$d poznámok</item>
+    </plurals>
+    <plurals name="share_multiple">
+        <item quantity="one">Zdieľať obsah %1$d poznámky</item>
+        <item quantity="few">Zdieľať obsah %1$d poznámok</item>
+        <item quantity="many">Zdieľať obsah %1$d poznámok</item>
+        <item quantity="other">Zdieľať obsah %1$d poznámok</item>
+    </plurals>
+
+    <string name="formatting_help_divider" translateable="false">---</string>
+    <string name="formatting_help_codefence_inline" translateable="false">`%1$s`</string>
+    <string name="formatting_help_codefence_inline_escaped" translateable="false">\\`%1$s\\`</string>
+    <string name="formatting_help_codefence" translateable="false">```</string>
+    <string name="formatting_help_codefence_javascript" translateable="false">```javascript</string>
+    <string name="formatting_help_cbf_title">Kontextové formátovanie</string>
+    <string name="formatting_help_cbf_body_1">Hlavným cieľom aplikácie Notes je poskytnúť nástroj bez rozptyľovania. Svoje texty však budete môcť formátovať pomocou aplikácie Markdown. Pre rôzne príklady uvedené nižšie môžete použiť klávesové skratky, pomocou ktorých môžete svoje poznámky formátovať bez toho, aby ste museli zadávať kódy uvedené nižšie.</string>
+    <string name="formatting_help_cbf_body_2">Stačí si vybrať rozsah textu alebo ťuknúť na kurzor na ktorejkoľvek pozícii a dostanete vyskakovacie menu, ktoré obsahuje tieto východzie položky %1$s, %2$s, %3$s položky ako %4$s alebo %5$s.</string>
+
+    <string name="formatting_help_text_title">Text</string>
+    <string name="formatting_help_text_body">Pomocou Markdown ľahké urobiť pár slov %1$stučným písmom%1$s a iných slov %2$skurzívou%2$s. Niektoré slová môžete %3$sprečiarknuť%3$s a dokonca [odkaz na Nextcloud](https://nextcloud.com).</string>
+
+    <string name="formatting_help_lists_title">Zoznamy</string>
+    <string name="formatting_help_lists_body_1">Niekedy chcete číslované zoznamy:</string>
+    <string name="formatting_help_lists_body_2">Jeden</string>
+    <string name="formatting_help_lists_body_3">Dva</string>
+    <string name="formatting_help_lists_body_4">Tri</string>
+    <string name="formatting_help_lists_body_5">Niekedy chcete odrážky:</string>
+    <string name="formatting_help_lists_body_6">Riadok začnite pomlčkou</string>
+    <string name="formatting_help_lists_body_7">A ak máte vnorený bod, vložte pred pomlčku alebo hviezdičku dve medzery:</string>
+    <string name="formatting_help_lists_body_8">Ako toto</string>
+    <string name="formatting_help_lists_body_9">A toto</string>
+
+    <string name="formatting_help_checkboxes_title">Zaškrtávacie políčka</string>
+    <string name="formatting_help_checkboxes_body_1">Ak chcete vytvoriť zaškrtávacie políčko, použite zoznam nasledovaný hranatými zátvorkami</string>
+    <string name="formatting_help_checkboxes_body_2">Položka 1</string>
+    <string name="formatting_help_checkboxes_body_3">Položka 2</string>
+
+    <string name="formatting_help_structured_documents_title">Štrukturované dokumenty</string>
+    <string name="formatting_help_structured_documents_body_1">Niekedy je užitočné mať na štruktúrovanie dokumentov rôzne úrovne nadpisov. Ak chcete vytvoriť nadpisy, začnite riadky znakom %1$s. Viacero %2$s v riadku označuje menšie veľkosti nadpisu.</string>
+    <string name="formatting_help_structured_documents_body_2">Toto je nadpis tretej úrovne</string>
+    <string name="formatting_help_structured_documents_body_3">Pre rôzne veľkosti nadpisov môžete použiť od jednej %1$s po šesť %2$s.</string>
+    <string name="formatting_help_structured_documents_body_4">Ak chcete niekoho citovať, pred riadok použite znak %1$s:</string>
+    <string name="formatting_help_structured_documents_body_5">Predstavivosť je dôležitejšia ako znalosť. Vedomosti sú obmedzené. Predstavivosť obklopuje svet.</string>
+    <string name="formatting_help_structured_documents_body_6">- Albert Einstein</string>
+
+    <string name="formatting_help_code_title">Kód</string>
+    <string name="formatting_help_code_body_1">Tam, kde je to možné, ako upraviť štýl vrátane Markdown. Ak chcete vložiť kód, zalomte ich do spätných lomiek:</string>
+    <string name="formatting_help_code_body_2">Markdown tiež podporuje niečo, čo sa nazýva oplotenie kódu, čo umožňuje použiť viac riadkov bez odsadenia:</string>
+    <string name="formatting_help_code_body_3">Ak chcete použiť zvýraznenie syntaxe, uveďte jazyk:</string>
+
+    <string name="simple_other">Iné</string>
+    <string name="sort_last_modified">Zoradiť podľa upraveného dátumu</string>
+    <string name="sort_alphabetically">Zoradiť podľa abecedy</string>
+    <string name="error_action_open_battery_settings">Nastavenia batérie.</string>
+    <string name="error_action_open_deck_info">Otvoriť informácie o aplikácii</string>
+    <string name="error_action_open_network">Nastavenia siete</string>
+    <string name="no_other_accounts">Zatiaľ nemáte nastavené žiadne ďalšie účty.</string>
+    </resources>

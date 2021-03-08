@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oharrak</string>
+    <string name="app_name_long">Nextcloud Oharrak</string>
+    <string name="label_all_notes">Ohar guztiak</string>
+    <string name="label_favorites">Gogokoak</string>
+    <string name="action_create">Ohar berria</string>
+    <string name="action_settings">Ezarpenak</string>
+    <string name="action_trashbin">Ezabatutako oharrak</string>
+    <string name="action_search">Bilatu</string>
+    <string name="action_sorting_method">Ordenatze metodoa</string>
+    <string name="simple_cancel">Utzi</string>
+    <string name="simple_edit">Editatu</string>
+    <string name="action_edit_save">Gorde</string>
+    <string name="simple_about">Honi buruz</string>
+    <string name="simple_link">Esteka</string>
+    <string name="action_note_deleted">%1$s ezabatuta</string>
+    <string name="action_note_restored">%1$szaharberrituta</string>
+    <string name="action_undo">Desegin</string>
+    <string name="action_uncategorized">Kategoria gabe</string>
+    <string name="menu_delete">Ezabatu</string>
+    <string name="menu_change_category">Kategoria</string>
+    <string name="menu_favorite">Gogokoa</string>
+    <string name="menu_preview">Aurreikusi</string>
+    <string name="menu_share">Partekatu</string>
+
+    <string name="search_in_category">Bilatu %1$s(e)n</string>
+    <string name="search_in_all">Bilatu nota guztiak</string>
+
+    <string name="change_category_title">Hautatu kategoria bat</string>
+
+    <string name="listview_updated_today">Gaur</string>
+    <string name="listview_updated_yesterday">Atzo</string>
+    <string name="listview_updated_this_week">Aste honetan</string>
+    <string name="listview_updated_last_week">Joan den astean</string>
+    <string name="listview_updated_this_month">Hilabete honetan</string>
+    <string name="listview_updated_last_month">Joan den hilabetean</string>
+
+    <string name="settings_note_mode">Erakutsi oharren modua</string>
+    <string name="settings_theme_title">Gaia</string>
+    <string name="settings_font_title">Zabalera bakarreko letra mota</string>
+    <string name="settings_font_size">Letra tamaina</string>
+    <string name="settings_wifi_only">Sinkronizatu wifi bidez bakarrik</string>
+    <string name="settings_lock">Pasahitz bidezko babesa</string>
+    <string name="settings_background_sync">Atzeko planoko sinkronizazioa</string>
+
+    <string name="error_sync">Sinkronizazioak huts egin du: %1$s</string>
+    <string name="error_synchronization">Sinkronizazioak huts egin du</string>
+    <string name="error_no_network">Ez dago sare konexiorik</string>
+    <string name="error_unknown">Errore ezezagun bat gertatu da.</string>
+
+    <string name="about_version_title">Bertsioa</string>
+    <string name="about_version"> &lt;strong>%1$s&lt;/strong> erabiltzen ari zara</string>
+    <string name="about_maintainer_title">Mantentzailea</string>
+    <string name="about_developers_title">Garatzaileak</string>
+    <string name="about_translators_title">Itzultzaileak</string>
+    <string name="about_translators_transifex">Nextcloud komunitatea &lt;a href=\"%1$s\">Transifex&lt;/a> zerbitzuan</string>
+    <string name="about_testers_title">Probatzaileak</string>
+    <string name="about_source_title">Iturburu-kodea</string>
+    <string name="about_source">Proiektu hau GitHub ostatatuta dago: &lt;a href=\"%1$s\">%1$s&lt;/a></string>
+    <string name="about_issues_title">Arazoak</string>
+    <string name="about_issues">GitHub-en akatsen berri eman dezakezu, hobekuntzak proposatu ditzakezu, eta ezaugarri berriak eskatu ditzakezu hurrengo harian: &lt;a href=\"%1$s\">%1$s&lt;/a></string>
+    <string name="about_translate_title">Itzuli</string>
+    <string name="about_translate">Elkartu Nexcloud taldera Transifex zerbitzuan eta lagundu aplikazio hau itzultzen: &lt;a href=\"%1$s\">%1$s&lt;/a></string>
+    <string name="about_app_license_title">Aplikazio lizentzia</string>
+    <string name="about_app_license">Aplikazio hau GNU GENERAL PUBLIC LICENSE v3+ lizentziapean dago.</string>
+    <string name="about_app_license_button">Lizentzia ikusi</string>
+    <string name="about_icons_disclaimer_title">Irudiak</string>
+    <string name="about_icons_disclaimer">&lt;p>Jatorriko ikonoaren egilea %1$s&lt;/p>&lt;p>Erabilitako beste ikono guztiak &lt;a href=\"https://materialdesignicons.com/\">Material Design Ikonoak dira&lt;/a> Google Inc. etxeak eginak eta  Apache 2.0 lizentziapean argitaratutakoak.&lt;/p></string>
+    <string name="about_credits_tab_title">Kredituak</string>
+    <string name="about_contribution_tab_title">Kontribuzio</string>
+    <string name="about_license_tab_title">Lizentzia</string>
+
+    <string name="widget_note_list_title">Oharren zerrenda</string>
+    <string name="widget_note_list_placeholder">Oharrik ez</string>
+    <string name="widget_single_note_title">Ohar bakarra</string>
+    <string name="widget_single_note_placeholder_tv">Oharra ez da aurkitu</string>
+    <string name="widget_create_note">Sortu oharra</string>
+    <string name="widget_not_logged_in">Hasi saioa oharrak aplikazioan trepeta hau erabili aurretik</string>
+    <string name="widget_entry_fav_contentDescription">Izarraren ikonoa elementu bat gogoko gisa adierazteko erabiltzen da</string>
+    <string name="widget_app_launcher_contentDescription">Aplikazioa abiatzen du</string>
+
+    <string name="activity_select_single_note">Hautatu oharra</string>
+
+    <string name="shortcut_create_long">Sortu ohar berria</string>
+
+    <string name="pref_value_font_normal">Normala</string>
+    <string name="pref_value_wifi_and_mobile">Sinkronizatu wifi eta datu mugikorrekin</string>
+    <string name="pref_value_lock">Pasahitz bidezko babesa</string>
+
+    <string name="simple_error">Errorea</string>
+    <string name="simple_close">Itxi</string>
+    <string name="simple_copy">Kopiatu</string>
+    <string name="simple_exception">Salbuespena</string>
+    <string name="pin_to_homescreen">Hasierako pantailara egokitu</string>
+    <string name="note_has_been_deleted">Ohar hau ezabatu da</string>
+    <string name="add_account">Gehitu kontua</string>
+    <string name="category_music">Musika</string>
+    <string name="category_movies">Filmak</string>
+    <string name="category_movie">Filma</string>
+    <string name="category_work">Lana</string>
+    <string name="account_already_imported">Kontua dagoeneko inportatu da</string>
+    <string name="no_notes_yet">Ez dago oharrik</string>
+    <string name="no_notes_yet_description">Sakatu + botoia ohar berria sortzeko</string>
+    <string name="simple_more">Gehiago</string>
+    <string name="simple_move">Mugitu</string>
+    <string name="category_readonly">Irakurtzeko soilik</string>
+    <string name="no_category">Kategoria gabe</string>
+    <string name="add_category">Gehitu %1$s</string>
+    <string name="simple_checkbox">Kontrol laukia</string>
+    <string name="unlock_notes">Desblokeatzearen oharrak</string>
+    <string name="simple_beta">Beta</string>
+    <string name="error_dialog_title">Oh ez - Orain zer? 🙁</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Saia zaitez aplikazioa itxi eta berrabiarazten. Agian Nextcloud aplikazioarekin gaizki konektatzea gertatu da.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Arazoak jarraitzen badu, saiatu bi aplikazioen biltegiak garbitzen: Nextcloud eta Nextcloud Oharrak aplikazioen biltegiak.</string>
+    <string name="error_dialog_tip_clear_storage">Biltegia garbi dezakezu aplikazioaren informazioa ireki eta hautatuz: Biltegia → Garbitu biltegia. ⚠️Abisua: Honek oraindik sinkronizatuta ez dauden oharrak ezabatuko ditu!</string>
+    <string name="error_dialog_tip_files_outdated">Daukazun Nextcloud aplikazioa zaharkituta dagoela dirudi. Zoaz Play Store edo F-Droidera azken bertsioa lortzeko.</string>
+    <string name="error_dialog_tip_files_force_stop">Daukazun Nextcloud aplikazioan zerbait gaizki dabilela dirudi.  Saia zaitez Nextcloud aplikazioa eta Nextcloud Oharrak, biak, geldiarazten. </string>
+    <string name="error_dialog_tip_files_delete_storage">Geldiarazteak ez badu arazoa konpontzen, bi biltegiak garbitzen saia zaitezke.</string>
+    <string name="error_dialog_timeout_instance">Ez da zerbitzariaren erantzunik jaso emandako denboran. Ziurta ezazu zure instantzia ondo dabilela.</string>
+    <string name="error_dialog_timeout_toggle">Egiaztatu sarera konexiorik duzun. Batzuetan, mugikorreko datuak edo Wi-Fia kendu eta berriro jartzeak laguntzen du.</string>
+    <string name="error_dialog_check_server">Zerbitzariaren erantzuna ez da zuzena izan. Egiazta ezazu ea zure oharrak atzitu ditzakezun web interfazearen bidez.</string>
+    <string name="error_dialog_check_server_logs">Arazo bat dago zure Nextcloud ezarpenekin. Eman begiratu bat zerbitzariko egunkari-fitxategiei.</string>
+    <string name="error_dialog_check_maintenance">Egiazta ezazu zure Nextcloud instantzia ez dagoela mantentze moduan une honetan.</string>
+    <string name="error_dialog_insufficient_storage">Zure Nextcloud instantziak ez du biltegiratze leku libre gehiagorik. Ezabatu fitxategi batzuk, aldaketa lokalak hodeiarekin sinkroniza daitezen.</string>
+    <string name="error_dialog_contact_us">Mesedez, arazoak jarraitzen baldin badu ez izan zalantzarik gurekin harremanetan jartzeko. Alboko barran aurki dezakezu gurekin kontaktatzeko informazioa.</string>
+    <string name="error_dialog_we_need_info">Zuri laguntzeko hurrengo informazio teknikoa behar dugu:</string>
+    <string name="error_dialog_server_app_enabled">Mesedez egiaztatu \"Notak\" aplikazioa instalatu eta gaitu duzula zure zerbitzarian.</string>
+    <string name="error_dialog_redirect">Zure zerbitzariak HTTP 302 egoera kodearekin erantzun du, honek esan nahi du ez duzula Notak aplikazioa ez duzula zure zerbitzarian instalatu edo zerbait txarto konfiguratuta dagoela. Hau .htaccess fitxategi batean arau pertsonalizatuak daudelako edo OID Bezeroa izeneko aplikazioarengatik sortua izan daiteke. </string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Desgaitu bateria optimizazio guztiak Nextcloudentzat eta Oharrak aplikazioarentzat.</string>
+    <string name="added_content">\"%1$s\" gehituta</string>
+    <string name="shared_text_empty">Partekatutako testua hutsik zegoen</string>
+    <string name="append_to_note">Gehitu notara</string>
+    <string name="change_note_title">Aldatu notaren titulua</string>
+    <string name="menu_edit_title">Editatu izenburua</string>
+    <string name="settings_branding">Marka</string>
+    <string name="settings_gridview">Sareta ikuspegia 🆕</string>
+    <string name="simple_security">Segurtasuna</string>
+    <string name="simple_appearance">Itxura</string>
+    <string name="simple_synchronization">Sinkronizazioa</string>
+    <string name="simple_behavior">Portaera</string>
+    <string name="manage_accounts">Kudeatu kontuak</string>
+    <string name="action_formatting_help">Formatua</string>
+
+    <string-array name="noteMode_entries">
+        <item>Ireki edizio moduan</item>
+        <item>Ireki aurrebista moduan</item>
+        <item>Gogoratu nire azken hautaketa</item>
+    </string-array>
+
+    <string-array name="fontSize_entries">
+        <item>Txikia</item>
+        <item>Ertaina</item>
+        <item>Handia</item>
+    </string-array>
+
+    <string-array name="sync_entries">
+        <item>Off</item>
+        <item>15 minutu</item>
+        <item>Ordu 1</item>
+        <item>6 ordu</item>
+    </string-array>
+
+    <string-array name="darkmode_entries">
+        <item>Argia</item>
+        <item>Iluna</item>
+        <item>Sistemaren defektuzko ezarpenak</item>
+    </string-array>
+
+    <plurals name="ab_selected">
+        <item quantity="one">%d hautatuta</item>
+        <item quantity="other">%d hautatuta</item>
+    </plurals>
+    <plurals name="bulk_notes_deleted">
+        <item quantity="one">ohar ezabatu dira</item>
+        <item quantity="other">%1$dohar ezabatu dira</item>
+    </plurals>
+    <plurals name="bulk_notes_restored">
+        <item quantity="one">ohar leheneratu dira</item>
+        <item quantity="other">%1$dohar leheneratu dira</item>
+    </plurals>
+    <plurals name="share_multiple">
+        <item quantity="one">Partekatu %1$doharraren edukia</item>
+        <item quantity="other">Partekatu %1$doharraren edukia</item>
+    </plurals>
+
+    <string name="formatting_help_divider" translateable="false">---</string>
+    <string name="formatting_help_codefence_inline" translateable="false">`%1$s`</string>
+    <string name="formatting_help_codefence_inline_escaped" translateable="false">\\`%1$s\\`</string>
+    <string name="formatting_help_codefence" translateable="false">```</string>
+    <string name="formatting_help_codefence_outer" translateable="false">````</string>
+    <string name="formatting_help_codefence_javascript" translateable="false">```javascript</string>
+    <string name="formatting_help_cbf_title">Testuinguruan oinarritutako formatu ematea</string>
+    <string name="formatting_help_cbf_body_1">Oharrak aplikazioaren diseinuaren erronka handi bat arreta-galtzerik gabeko tresna bat eskaintzea da. Baina aukera dago Markdown erabiliz testuei formatua emateko. Behean adierazitako adibide ugaritarako, lasterbideak erabil daitezke oharrei formatua emateko beheko kodeak idatzi gabe.</string>
+    <string name="formatting_help_cbf_body_2">Testuaren zati bat hautatu edo sakatu kurtsorea edozein tokitan eta popup menua agertuko zaizu, %1$s, %2$s eta %3$s bezalako sarrera lehenetsien ondoan %4$seta%5$s bezalakoak ere badituena.</string>
+
+    <string name="formatting_help_text_title">Testu</string>
+    <string name="formatting_help_text_body">Oso erraza da hitz batzuk %1$slodi%1$s jartzea eta beste batzuk %2$setzatea%2$s Markdown erabiliz. Hitz batzuk %3$smarratu%3$s ditzakezu eta baita estekak gehitu ere [Nextcloudera joateko](https://nextcloud.com).</string>
+
+    <string name="formatting_help_lists_title">Zerrendak</string>
+    <string name="formatting_help_lists_body_1">Batzuetan zerrenda zenbatuak nahi dituzu:</string>
+    <string name="formatting_help_lists_body_2">Bat</string>
+    <string name="formatting_help_lists_body_3">Bi</string>
+    <string name="formatting_help_lists_body_4">Hiru</string>
+    <string name="formatting_help_lists_body_5">Noizean behin bulet-puntuak jarri nahi izaten dira:</string>
+    <string name="formatting_help_lists_body_6">Lerro bat marratxo batekin hastea</string>
+    <string name="formatting_help_lists_body_7">Eta azpipuntuak izanez gero, utzi bi tarte marratxoa edo izarraren aurretik:</string>
+    <string name="formatting_help_lists_body_8">Honela</string>
+    <string name="formatting_help_lists_body_9">eta horrela</string>
+
+    <string name="formatting_help_checkboxes_title">Kontrol-laukiak</string>
+    <string name="formatting_help_checkboxes_body_1">Egiaztapen-laukitxo bat sortzeko, erabili zerrenda bat eta paréntesis.</string>
+    <string name="formatting_help_checkboxes_body_2">1 elementua</string>
+    <string name="formatting_help_checkboxes_body_3">2 elementua</string>
+
+    <string name="formatting_help_structured_documents_title">Egitura duten dokumentuak</string>
+    <string name="formatting_help_structured_documents_body_1">Noizean behin erabilgarria izaten da maila uagriko izenburuak idaztea dokumentuei egitura emateko. Hasi lerroak %1$sbatekin izenburuak sortzeko. %2$s batzuk jartzeak tamaina txikiagoko izenburuak sortzen ditu.</string>
+    <string name="formatting_help_structured_documents_body_2">Hau hirugarren mailako izenburu bat da</string>
+    <string name="formatting_help_structured_documents_body_3">%1$seta %2$sbitartean sei izenburu tamaina ezberdin erabil ditzakezu.</string>
+    <string name="formatting_help_structured_documents_body_4">Norbait aipatzekotan, erabili %1$s karakterea lerroaren aurretik:</string>
+    <string name="formatting_help_structured_documents_body_5">Irudimena ezagutza baino garrantzitsuagoa da. Ezagutza mugatua da. Irudimenak munduari buelta ematen dio.</string>
+    <string name="formatting_help_structured_documents_body_6">- Albert Einstein</string>
+
+    <string name="formatting_help_code_title">Kodea</string>
+    <string name="formatting_help_code_body_1">Markdown-ekin kode estiloa zuzentzeko hainbat modu daude. Txertatutako kode-blokeak izanez gero, egokitu atzeramarkekin:</string>
+    <string name="formatting_help_code_body_2">Markdown-ek kode-eskrima deituriko zerbait ere onartzen du, koskarik gabe hainbat lerro ahalbidetzen dituena:</string>
+    <string name="formatting_help_code_body_3">Eta sintaxi nabarmentzea erabili nahi baduzu, gehitu hizkuntza:</string>
+
+    <string name="formatting_help_tables_title">Taulak</string>
+    <!-- Column header of a sample table -->
+    <string name="formatting_help_tables_column">%1dzutabea</string>
+    <!-- Table cell value of a sample table -->
+    <string name="formatting_help_tables_value">%1dbalioa</string>
+
+    <string name="formatting_help_images_title">Irudiak</string>
+    <string name="formatting_help_images_alt">Irudi dotorea</string>
+
+    <string name="simple_other">Beste bat</string>
+    <string name="sort_last_modified">Ordenatu aldatze-dataren arabera</string>
+    <string name="sort_alphabetically">Ordenatu alfabetikoki</string>
+    <string name="error_action_open_battery_settings">Bateria ezarpenak</string>
+    <string name="error_action_open_deck_info">Ireki aplikazioaren informazioa</string>
+    <string name="error_action_open_network">Sareko ezarpenak</string>
+    <string name="no_account_configured_yet">Oraindik ez da konturik konfiguratu </string>
+    <string name="no_other_accounts">Oraindik ez duzu konturik konfiguratu.</string>
+    <string name="context_based_formatting">Testuinguruan oinarritutako formateatze leiho gainerakorra </string>
+</resources>

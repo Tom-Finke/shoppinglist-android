@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Σημειώσεις</string>
+    <string name="app_name_long">Nextcloud Σημειώσεις</string>
+    <string name="label_all_notes">Όλες οι σημειώσεις</string>
+    <string name="label_favorites">Αγαπημένα</string>
+    <string name="action_create">Νέα σημείωση</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="action_trashbin">Διεγραμμένες σημειώσεις</string>
+    <string name="action_search">Ψάχνει</string>
+    <string name="action_sorting_method">Μέθοδος ταξινόμησης</string>
+    <string name="simple_cancel">Άκυρο</string>
+    <string name="simple_edit">Επεξεργασία</string>
+    <string name="action_edit_save">Αποθήκευση</string>
+    <string name="simple_about">Περί</string>
+    <string name="simple_link">Σύνδεσμος</string>
+    <string name="action_note_deleted">Διεγραμμένα %1$s</string>
+    <string name="action_note_restored">Επαναφέρθηκαν %1$s</string>
+    <string name="action_undo">Αναίρεση</string>
+    <string name="action_uncategorized">Μή-κατηγοριοποιημένα</string>
+    <string name="menu_delete">Διαγραφή</string>
+    <string name="menu_change_category">Κατηγορία</string>
+    <string name="menu_favorite">Αγαπημένο</string>
+    <string name="menu_preview">Προεπισκόπηση</string>
+    <string name="menu_share">Διαμοιρασμός</string>
+
+    <string name="search_in_category">Αναζήτηση σε %1$s</string>
+    <string name="search_in_all">Αναζήτηση όλων των σημειώσεων</string>
+
+    <string name="change_category_title">Επιλογή κατηγορίας</string>
+
+    <string name="listview_updated_today">Σήμερα</string>
+    <string name="listview_updated_yesterday">Χθες</string>
+    <string name="listview_updated_this_week">Αυτή την εβδομάδα</string>
+    <string name="listview_updated_last_week">Προηγούμενη εβδομάδα</string>
+    <string name="listview_updated_this_month">Αυτό το μήνα</string>
+    <string name="listview_updated_last_month">Προηγούμενος μήνας</string>
+
+    <string name="settings_note_mode">Κατάσταση οθόνης για σημειώσεις</string>
+    <string name="settings_theme_title">Θέμα</string>
+    <string name="settings_font_title">Γραμματοσειρά monospace</string>
+    <string name="settings_font_size">Μέγεθος γραμματοσειράς</string>
+    <string name="settings_wifi_only">Συγχρονισμός μόνο σε Wi-Fi</string>
+    <string name="settings_lock">Προστασία συνθηματικού</string>
+    <string name="settings_background_sync">Συγχρονισμός στο παρασκήνιο</string>
+
+    <string name="error_sync">Αποτυχία συγχρονισμού: %1$s</string>
+    <string name="error_synchronization">Αποτυχία συγχρονισμού</string>
+    <string name="error_no_network">Δεν υπάρχει σύνδεση στο δίκτυο</string>
+    <string name="error_unknown">Προέκυψε άγνωστο σφάλμα.</string>
+
+    <string name="about_version_title">Έκδοση</string>
+    <string name="about_version">Προς το παρόν χρησιμοποιείτε &lt;strong>%1$s&lt;/strong></string>
+    <string name="about_maintainer_title">Συντηρητής</string>
+    <string name="about_developers_title">Προγραμματιστές</string>
+    <string name="about_translators_title">Μεταφραστές</string>
+    <string name="about_translators_transifex">Nextcloud κοινότητα στο &lt;a href=\"%1$s\">Transifex&lt;/a></string>
+    <string name="about_testers_title">Δοκιμαστές</string>
+    <string name="about_source_title">Πηγαίος κώδικας</string>
+    <string name="about_source">Το project φιλοξενείται στο Github: &lt;a href=\"%1$s\">%1$s&lt;/a></string>
+    <string name="about_issues_title">Ζητήματα</string>
+    <string name="about_issues">Μπορείτε να αναφέρετε σφάλματα, να προτείνετε βελτιώσεις και να κάνετε αιτήματα χαρακτηριστικών στο Github &lt;a href=\"%1$s\">%1$s&lt;/a></string>
+    <string name="about_translate_title">Μετάφρασε</string>
+    <string name="about_translate">Λάβε μέρος στην ομάδα του Nextcloud στο Transifex και βοήθησε μας να μεταφράσουμε αυτή την εφαρμογή: &lt;a href=\"%1$s\">%1$s&lt;/a></string>
+    <string name="about_app_license_title">Άδεια χρήσης εφαρμογής</string>
+    <string name="about_app_license">Αυτή η εφαρμογή υπόκεινται στην άδεια χρήσης GNU GENERAL PUBLIC LICENSE v3+.</string>
+    <string name="about_app_license_button">Προβολή άδειας χρήσης</string>
+    <string name="about_icons_disclaimer_title">Εικονίδια</string>
+    <string name="about_icons_disclaimer">&lt;p>Τα αυθεντικά εικονίδια δημιουργήθηκαν από %1$s&lt;/p>&lt; p> Όλα τα υπόλοιπα αυτής της εφαρμογής είναι &lt; href=\"https://materialdesignicons.com/\">Material Design Icons&lt;/a> made by Google Inc. and licensed under the Apache 2.0 License.&lt;/p></string>
+    <string name="about_credits_tab_title">Μνεία</string>
+    <string name="about_contribution_tab_title">Συνεισφορά</string>
+    <string name="about_license_tab_title">Άδεια χρήσης</string>
+
+    <string name="widget_note_list_title">Λίστα σημειώσεων</string>
+    <string name="widget_note_list_placeholder">Καμία σημείωση</string>
+    <string name="widget_single_note_title">Απλή σημείωση</string>
+    <string name="widget_single_note_placeholder_tv">Η σημείωση δεν βρέθηκε</string>
+    <string name="widget_create_note">Δημιουργία Σημείωσης</string>
+    <string name="widget_not_logged_in">Παρακαλούμε συνδεθείτε στις Σημειώσεις πρωτού να χρησιμοποιήσετε αυτό το γραφικό στοιχείο.</string>
+    <string name="widget_entry_fav_contentDescription">Το εικονίδιο Αστέρι χρησιμέυει για την σήμανση ως αγαπημένο</string>
+    <string name="widget_app_launcher_contentDescription">Εκκινεί την εφαρμογή</string>
+
+    <string name="activity_select_single_note">Επιλογή σημείωσης</string>
+
+    <string name="shortcut_create_long">Δημιουργία νέας σημείωσης</string>
+
+    <string name="pref_value_font_normal">Κανονικό</string>
+    <string name="pref_value_wifi_and_mobile">Συγχρονισμός μόνο σε Wi-Fi και δεδομένα κινητού</string>
+    <string name="pref_value_lock">Προστασία συνθηματικού</string>
+
+    <string name="simple_error">Σφάλμα</string>
+    <string name="simple_close">Κλείσιμο</string>
+    <string name="simple_copy">Αντιγραφή</string>
+    <string name="simple_exception">Εξαίρεση</string>
+    <string name="pin_to_homescreen">Καρφίτσωμα στην αρχική αθόνη</string>
+    <string name="note_has_been_deleted">Αυτή η σημείωση έχει διαγραφεί</string>
+    <string name="add_account">Προσθήκη λογαριασμού</string>
+    <string name="category_music">Μουσική</string>
+    <string name="category_movies">Ταινίες</string>
+    <string name="category_movie">Ταινία</string>
+    <string name="category_work">Εργασία</string>
+    <string name="account_already_imported">Ο λογαριασμός έχει εισαχθεί ήδη</string>
+    <string name="no_notes_yet">Δεν υπάρχουν ακόμα σημειώσεις</string>
+    <string name="no_notes_yet_description">Πιέστε το κουμπί + για νέα σημείωση</string>
+    <string name="simple_more">Περισσότερα</string>
+    <string name="simple_move">Μετακίνηση</string>
+    <string name="category_readonly">Μόνο για ανάγνωση</string>
+    <string name="no_category">Χωρίς κατηγορία</string>
+    <string name="add_category">Προσθήκη %1$s</string>
+    <string name="simple_checkbox">Πλαίσιο ελέγχου</string>
+    <string name="unlock_notes">Ξεκλείδωμα σημειώσεων</string>
+    <string name="simple_beta">Δοκιμαστικό</string>
+    <string name="error_dialog_title">Ωχ όχι - Τώρα τί; 🙁</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Δοκιμάστε τερματισμό της εφαρμογή και επανεκκίνηση. Ίσως υπάρχει λάθος σύνδεση.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Εάν το πρόβλημα παραμένει, προσπαθήστε να εκκαθαρίσετε τον χώρο αποθήκευσης και των δύο εφαρμογών: του Nextcloud και του Nextcloud Notes.</string>
+    <string name="error_dialog_tip_files_outdated">Η εφαρμογή Nextcloud δεν είναι ενημερωμένη. Παρακαλούμε επισκεφθείτε το Play Store ή το F-Groid για λήψη της τελευταίας έκδοσης.</string>
+    <string name="error_dialog_tip_files_force_stop">Κάτι φαίνεται να πάει στραβά με την εφαρμογή Nextcloud. Προσπαθήστε να τερματίσετε την εφαρμογή Nextcloud και την εφαρμογή Nextcloud Notes.</string>
+    <string name="error_dialog_tip_files_delete_storage">Εάν ο τερματισμός δεν βοηθήσει, μπορείτε να εκκαθαρίσετε τον αποθηκευτικό χώρο και των δύο εφαρμογών.</string>
+    <string name="error_dialog_timeout_instance">Δεν υπήρχε απάντηση από τον διακομιστή σας. Βεβαιωθείτε ότι η σύνδεσή σας λειτουργεί κανονικά.</string>
+    <string name="error_dialog_timeout_toggle">Ελέγξτε τη σύνδεση δικτύου σας. Κάποιες φορές η εναλλαγή δεδομένων κινητής τηλεφωνίας ή Wi-Fi μπορεί να βοηθήσει.</string>
+    <string name="error_dialog_check_server">Η απάντηση του διακομιστή σας δεν ήταν σωστή. Ελέγξτε αν μπορείτε να αποκτήσετε πρόσβαση στις σημειώσεις σας μέσω του περιηγητή σας.</string>
+    <string name="error_dialog_check_server_logs">Υπάρχει ένα πρόβλημα με τη ρύθμιση Nextcloud. Ελέγξτε τα αρχεία καταγραφής του διακομιστή.</string>
+    <string name="error_dialog_check_maintenance">Παρακαλούμε ελέγξτε το Nextcloud οτι δεν βρίσκεται σε λειτουργία συντήρησης.</string>
+    <string name="error_dialog_insufficient_storage">Δεν υπάρχει επαρκής χώρος αποθήκευσης στο Nextcloud. Διαγράψτε ορισμένα αρχεία για να συγχρονίσετε τις αλλαγές σας.</string>
+    <string name="error_dialog_contact_us">Μην διστάσετε να επικοινωνήσετε μαζί μας εάν τα προβλήματα παραμένουν. Μπορείτε να βρείτε τα στοιχεία επικοινωνίας μας στην ενότητα σχετικά στην πλευρική στήλη.</string>
+    <string name="error_dialog_we_need_info">Χρειαζόμαστε τις ακόλουθες τεχνικές πληροφορίες για να σας βοηθήσουμε:</string>
+    <string name="error_dialog_server_app_enabled">Παρακαλούμε βεβαιωθείτε ότι εγκαταστήσατε και ενεργοποιήσατε την εφαρμογή \"Notes\" στον διακομιστή σας.</string>
+    <string name="error_dialog_redirect">Ο διακομιστής απάντησε με κωδικό κατάστασης HTTP 302, που σημαίνει, πως δεν έχετε εγκατεστημένη την εφαρμογή Notes στον διακομιστή σας ή υπάρχει λάθος ρύθμιση. Αυτό μπορεί να προκλήθηκε από λάθος καταχώρηση στο αρχείο .htaccess-file ή σε εφαρμογές του Nextcloud όπως την OID Client.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Παρακαλούμε απενεργοποιήστε όλες τις βελτιστοποιήσεις μπαταρίας για το Nextcloud και την εφαρμογή Notes.</string>
+    <string name="added_content">Προστέθηκε \"%1$s\"</string>
+    <string name="shared_text_empty">Το κοινόχρηστο κείμενο είναι κενό</string>
+    <string name="append_to_note">Προσάρτηση στη σημείωση</string>
+    <string name="change_note_title">Αλλαγή τίτλου σημείωσης</string>
+    <string name="menu_edit_title">Επεξεργασία τίτλου</string>
+    <string name="settings_branding">Επωνυμία</string>
+    <string name="settings_gridview">Προβολή πλέγματος 🆕</string>
+    <string name="simple_security">Ασφάλεια</string>
+    <string name="simple_appearance">Εμφάνιση</string>
+    <string name="simple_synchronization">Συγχρονισμός</string>
+    <string name="simple_behavior">Συμπεριφορά</string>
+    <string name="manage_accounts">Διαχείριση λογαριασμών</string>
+    <string name="action_formatting_help">Διαμόρφωση σε εξέλιξη</string>
+
+    <string-array name="noteMode_entries">
+        <item>Άνοιγμα σε λειτουργία τροποποίησης</item>
+        <item>Άνοιγμα σε λειτουργία προεπισκόπισης</item>
+        <item>Να θυμάσαι την τελευταία μου επιλογή</item>
+    </string-array>
+
+    <string-array name="fontSize_entries">
+        <item>Μικρό</item>
+        <item>Μεσαίο</item>
+        <item>Μεγάλο</item>
+    </string-array>
+
+    <string-array name="sync_entries">
+        <item>Απενεργοποίηση </item>
+        <item>15 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>6 ώρες</item>
+    </string-array>
+
+    <string-array name="darkmode_entries">
+        <item>Φωτεινό</item>
+        <item>Σκούρο</item>
+        <item>Προεπιλογή Συστήματος</item>
+    </string-array>
+
+    <plurals name="ab_selected">
+        <item quantity="one">%d επιλέχτηκε</item>
+        <item quantity="other">%d επιλέχτηκαν</item>
+    </plurals>
+    <plurals name="bulk_notes_deleted">
+        <item quantity="one">Διαγράφηκε μία σημείωση</item>
+        <item quantity="other">Διαγράφηκαν %1$d σημειώσεις</item>
+    </plurals>
+    <plurals name="bulk_notes_restored">
+        <item quantity="one">Επαναφέρθηκε μία σημείωση</item>
+        <item quantity="other">Επαναφέρθηκαν %1$dσημειώσεις</item>
+    </plurals>
+    <plurals name="share_multiple">
+        <item quantity="one">Διαμοιρασμός περιεχομένου %1$d σημείωσης</item>
+        <item quantity="other">Διαμοιρασμός περιεχομένου %1$d σημειώσεων</item>
+    </plurals>
+
+    <string name="formatting_help_divider" translateable="false">---</string>
+    <string name="formatting_help_codefence_inline" translateable="false">`%1$s`</string>
+    <string name="formatting_help_codefence_inline_escaped" translateable="false">\\`%1$s\\`</string>
+    <string name="formatting_help_codefence" translateable="false">```</string>
+    <string name="formatting_help_codefence_outer" translateable="false">````</string>
+    <string name="formatting_help_codefence_javascript" translateable="false">```javascript</string>
+    <string name="formatting_help_cbf_title">Μορφοποίηση βάσει κατάστασης</string>
+    <string name="formatting_help_cbf_body_1">Ένας κύριος σχεδιαστικός στόχος της εφαρμογής Σημειώσεις, είναι να παρέχει ένα ανεξάρτητο εργαλείο. Θα μπορείτε να μορφοποιήσετε τα κείμενά σας με το Markdown. Για διάφορα από τα παρακάτω παραδείγματα, μπορείτε να χρησιμοποιήσετε συντομεύσεις για να μορφοποιήσετε τις σημειώσεις σας χωρίς να πληκτρολογήσετε τους παρακάτω κωδικούς.</string>
+    <string name="formatting_help_cbf_body_2">Απλώς επιλέξτε ένα εύρος κειμένου ή πατήστε τον κέρσορα σε οποιαδήποτε θέση και θα λάβετε ένα αναδυόμενο μενού που περιέχει δίπλα στις προεπιλεγμένες καταχωρήσεις %1$s, %2$s, %3$s καταχωρίσεις όπως %4$s ή %5$s.</string>
+
+    <string name="formatting_help_text_title">Κείμενο</string>
+    <string name="formatting_help_text_body">Είναι πολύ εύκολο να γράψετε μερικές λέξεις με %1$sέντονη%1$s και άλλες με %2$sπλάγια%2$s μορφή με το Markdown. Μπορείτε %3$sχτυπήσετε%3$s μερικές λέξεις μέσω του [συνδέσμου για Nextcloud] (https://nextcloud.com).</string>
+
+    <string name="formatting_help_lists_title">Λίστες</string>
+    <string name="formatting_help_lists_body_1">Μερικές φορές θέλετε αριθμημένες λίστες:</string>
+    <string name="formatting_help_lists_body_2">Ένα</string>
+    <string name="formatting_help_lists_body_3">Δύο</string>
+    <string name="formatting_help_lists_body_4">Τρία</string>
+    <string name="formatting_help_lists_body_5">Μερικές φορές θέλετε κουκκίδες:</string>
+    <string name="formatting_help_lists_body_6">Ξεκινήστε μια γραμμή με παύλα</string>
+    <string name="formatting_help_lists_body_7">Και αν έχετε δευτερεύοντα σημεία, βάλτε δύο κενά πριν από την παύλα ή το αστέρι:</string>
+    <string name="formatting_help_lists_body_8">Όπως αυτό</string>
+    <string name="formatting_help_lists_body_9">Και αυτό</string>
+
+    <string name="formatting_help_checkboxes_title">Πλαίσια ελέγχου</string>
+    <string name="formatting_help_checkboxes_body_1">Για να δημιουργήσετε ένα πλαίσιο ελέγχου, χρησιμοποιήστε μια λίστα ακολουθούμενη από αγκύλες</string>
+    <string name="formatting_help_checkboxes_body_2">Αντικείμενο 1</string>
+    <string name="formatting_help_checkboxes_body_3">Αντικείμενο 2</string>
+
+    <string name="formatting_help_structured_documents_title">Δομημένα έγγραφα</string>
+    <string name="formatting_help_structured_documents_body_1">Μερικές φορές είναι χρήσιμο να έχετε διαφορετικά επίπεδα επικεφαλίδων για τη δομή των εγγράφων σας. Ξεκινήστε τις γραμμές με ένα %1$s για να δημιουργήσετε επικεφαλίδες. Πολλαπλά %2$s στη σειρά δηλώνουν μικρότερα μεγέθη επικεφαλίδας.</string>
+    <string name="formatting_help_structured_documents_body_2">Αυτή είναι μια επικεφαλίδα τρίτου επιπέδου</string>
+    <string name="formatting_help_structured_documents_body_3">Μπορείτε να χρησιμοποιήσετε ένα %1$s μέχρι έξι %2$s διαφορετικά μεγέθη επικεφαλίδας.</string>
+    <string name="formatting_help_structured_documents_body_4">Αν θέλετε να αναφέρετε κάποιο όνομα, χρησιμοποιήστε τον χαρακτήρα %1$s πριν από τη γραμμή:</string>
+    <string name="formatting_help_structured_documents_body_5">Η φαντασία είναι πιο σημαντική από τη γνώση. Η γνώση είναι περιορισμένη. Η φαντασία περιβάλλει τον κόσμο.</string>
+    <string name="formatting_help_structured_documents_body_6">- Albert Einstein</string>
+
+    <string name="formatting_help_code_title">Κώδικας</string>
+    <string name="formatting_help_code_body_1">Υπάρχουν πολλοί διαφορετικοί τρόποι δημιουργίας κώδικα με το Markdown. Εάν έχετε ενσωματωμένα μπλοκ κώδικα, περικλείεται με πλάγια κάθετο:</string>
+    <string name="formatting_help_code_body_2">Το Markdown υποστηρίζει επίσης κάτι που ονομάζεται code fencing, το οποίο επιτρέπει πολλαπλές γραμμές χωρίς εσοχή:</string>
+    <string name="formatting_help_code_body_3">Και αν θέλετε να χρησιμοποιήσετε την επισήμανση σύνταξης, συμπεριλάβετε τη γλώσσα:</string>
+
+    <string name="formatting_help_tables_title">Πίνακες</string>
+    <!-- Column header of a sample table -->
+    <string name="formatting_help_tables_column">Στήλη %1d</string>
+    <!-- Table cell value of a sample table -->
+    <string name="formatting_help_tables_value">Αξία %1d</string>
+
+    <string name="formatting_help_images_title">Εικόνες</string>
+    <string name="formatting_help_images_alt">Φανταστική εικόνα</string>
+
+    <string name="simple_other">Άλλο</string>
+    <string name="sort_last_modified">Ταξινόμηση κατά ημερομηνία τροποποίησης</string>
+    <string name="sort_alphabetically">Ταξινόμηση αλφαβητικά</string>
+    <string name="error_action_open_battery_settings">Ρυθμίσεις μπαταρίας</string>
+    <string name="error_action_open_deck_info">Πληροφορίες εφαρμογής</string>
+    <string name="error_action_open_network">Ρυθμίσεις δικτύου</string>
+    <string name="no_account_configured_yet">Δεν έχει ρυθμιστεί ακόμη κάποιος λογαριασμός</string>
+    <string name="no_other_accounts">Δεν έχετε ρυθμίσει ακόμη άλλους λογαριασμούς.</string>
+    <string name="context_based_formatting">Μορφοποίηση βάσει περιεχομένου popover</string>
+</resources>
